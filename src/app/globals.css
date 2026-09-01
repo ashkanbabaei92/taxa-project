@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  font-family: "Vazirmatn", "IRANSans", Tahoma, system-ui, sans-serif;
+}
+
+table {
+  font-variant-numeric: tabular-nums;
+}
